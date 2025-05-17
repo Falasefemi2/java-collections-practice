@@ -34,3 +34,16 @@
 - Method extraction – organizing code in readable methods
 
 - Use of static methods and variables for simple structure
+
+## Second Project(School Management System)
+
+- A school management student to register student, scores and students.
+
+## Feature
+
+- Register Student
+- View All studnet
+- Add subject and scoes
+- Search for student
+- Get average score
+- Get total score
